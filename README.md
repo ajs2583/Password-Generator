@@ -21,7 +21,7 @@ This Python script generates random passwords based on user preferences for leng
 
 ## Usage Example
 
-```bash
+```
 $ python password_generator.py
 Welcome to the PyPassword Generator!
 
@@ -35,6 +35,25 @@ Your generated password is: C7a*P0@Bz#E1
 Would you like to generate another password? (y/n): n
 Goodbye! Thank you for using the PyPassword Generator!
 ```
+### Clone with HTTPS
+```
+git clone https://github.com/ajs2583/Password_Generator.git
+```
+
+### Clone with SSH
+```
+git clone git@github.com:ajs2583/Password_Generator.git
+```
+
+### Run pip3 install to set up this script
+To install dependencies, run the following command in your terminal:
+```bash
+pip install .
+```
+
+## Generate password via command 
+python3 run.py
+
 ## Author
 - Andrew Sliva
 
